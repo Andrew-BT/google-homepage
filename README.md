@@ -1,0 +1,1 @@
+A mini-project in which we will be deconstructing a web page and rebuilding it. 
